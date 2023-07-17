@@ -31,6 +31,20 @@ This is a summary.  Sections
 
 Another Section
 
+## Learning Objectives
+
+
+# Content
+
+Table: Summary of course material.
+
+| Unit | Content Summary                 | Materials |
+|------|---------------------------------|-----------|
+| 01   | Loops & conditional statements  | [Unit 1](https://github.com/lesson1-url) |
+
+
+# Instructional Design
+
 ## Subsection
 
 If needed.
